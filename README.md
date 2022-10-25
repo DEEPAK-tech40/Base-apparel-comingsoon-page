@@ -4,6 +4,9 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ## Overview
 
+![desktop-preview](https://user-images.githubusercontent.com/94350356/197739101-e87776f4-7706-413d-b459-93553f9d7d91.jpg)
+
+
 ### The challenge
 
 Users should be able to:
@@ -16,7 +19,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop-view:
+
+![desktop-design](https://user-images.githubusercontent.com/94350356/197739272-d3591195-81e2-4e40-b43a-44c145f9a344.jpg)
+
+
+Mobile-view:
+
+![mobile-design](https://user-images.githubusercontent.com/94350356/197739291-8785b73b-e6b0-48fb-ad43-b2682ebce1d4.jpg)
+
 
 ### Links
 
